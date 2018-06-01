@@ -9,5 +9,7 @@ Este repositorio tiene como objetivo mostrar los proyectos desarrollados en la c
 * [Camilo Calero](https://github.com/UNDeadAI/life)
 * [Andrés Cantor](https://github.com/cantoraa/AL_Project)
 * [Romain Fontaine](https://github.com/romainfontaine/vida_artificial)
+* [Sebastian Lara](https://github.com/larajuse/AL_unal_project)
+* [Manuel Neira](https://github.com/mfneirae/Alife)
 * [Camilo Neiva](https://github.com/jcneivaa/Alife)
 * [Alex Ortiz](https://github.com/alexortiz005/artifical_life_final_delivery)
