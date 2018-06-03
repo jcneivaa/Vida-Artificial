@@ -12,4 +12,5 @@ Este repositorio tiene como objetivo mostrar los proyectos desarrollados en la c
 * [Sebastian Lara](https://github.com/larajuse/AL_unal_project)
 * [Manuel Neira](https://github.com/mfneirae/Alife)
 * [Camilo Neiva](https://github.com/jcneivaa/Alife)
+* [Alvaro Rodriguez](https://github.com/aldrodriguezca/ArtificialLife-Environment)
 * [Alex Ortiz](https://github.com/alexortiz005/artifical_life_final_delivery)
