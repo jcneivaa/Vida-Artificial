@@ -13,4 +13,6 @@ Este repositorio tiene como objetivo mostrar los proyectos desarrollados en la c
 * [Manuel Neira](https://github.com/mfneirae/Alife)
 * [Camilo Neiva](https://github.com/jcneivaa/Alife)
 * [Alvaro Rodriguez](https://github.com/aldrodriguezca/ArtificialLife-Environment)
+* [Andres Rodriguez](https://github.com/anfrodriguezri/alife)
+* [Jorge Solano](https://github.com/jorge52an/Artificial_Life)
 * [Alex Ortiz](https://github.com/alexortiz005/artifical_life_final_delivery)
