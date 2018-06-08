@@ -16,3 +16,4 @@ Este repositorio tiene como objetivo mostrar los proyectos desarrollados en la c
 * [Andres Rodriguez](https://github.com/anfrodriguezri/alife)
 * [Jorge Solano](https://github.com/jorge52an/Artificial_Life)
 * [Alex Ortiz](https://github.com/alexortiz005/artifical_life_final_delivery)
+* [David Bello](https://github.com/David-B-A/proyecto_alife)
